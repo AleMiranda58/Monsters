@@ -1,4 +1,5 @@
-<h1 align="center">Monsters App</h1>
+<div align="center">
+<h1>Monsters App</h1>
 
- 🚀 This App has been developed using [React.js](https://reactjs.org/)
-
+ <p>🚀 This App has been developed using [React.js](https://reactjs.org/)</p>
+</div>
