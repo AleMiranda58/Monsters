@@ -1,5 +1,5 @@
 <div align="center">
 <h1>Monsters App</h1>
 
- <p>🚀 This App has been developed using [React.js](https://reactjs.org/)</p>
+ <p>🚀 This App has been developed using React.js </p>
 </div>
